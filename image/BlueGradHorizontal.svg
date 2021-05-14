@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__BlueGradHorizontal" width="1219" height="234" viewBox="0 0 1219 234">
+    <defs>
+        <linearGradient id="prefix__linear-gradient" x2=".937" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#1c4e87" stop-opacity="0"/>
+            <stop offset=".191" stop-color="#123b68"/>
+            <stop offset=".608" stop-color="#062d57"/>
+            <stop offset="1" stop-color="#011e40"/>
+        </linearGradient>
+    </defs>
+    <path id="prefix__Rectangle_516" fill="url(#prefix__linear-gradient)" d="M0 0H1219V234H0z" data-name="Rectangle 516"/>
+</svg>
