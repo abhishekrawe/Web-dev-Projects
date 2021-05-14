@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Events Design</title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+        }
+
+        .slider {
+            height: 500px;
+            width: 400%;
+            display: flex;
+            flex-direction: row;
+        }
+
+        .container {
+
+            height: 500px;
+            width: 100%;
+            border: 1px solid gray;
+            background-color: rgb(248, 245, 245);
+            display: flex;
+            flex-direction: row;
+            justify-content: space-evenly;
+            color: rgb(255, 123, 0);
+
+
+        }
+
+
+
+        .box1 {
+            justify-content: center;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            height: 80%;
+            width: 46%;
+            float: left;
+            background-color: rgb(231, 231, 231);
+
+        }
+
+        .box2 {
+            display: flex;
+            flex-direction: column;
+            margin-top: 50px;
+            margin-bottom: 50px;
+
+            height: 80%;
+            width: 40%;
+            float: right;
+
+            background-color: rgb(248, 245, 245);
+
+            justify-content: center;
+            align-items: center;
+        }
+
+        .box2 h1 {
+            position: relative;
+            top: -27%;
+            left: 0%;
+        }
+
+        .box2 button {
+            background-color: rgb(255, 123, 0);
+            height: 31px;
+            width: 96px;
+            border-radius: 3px;
+            position: relative;
+            top: 27%;
+            left: 1%;
+            border: 1px solid rgb(255, 123, 0);
+            color: white;
+
+        }
+
+        @media (max-width: 950px) {
+            .container {
+
+                flex-direction: column;
+                height: 637px;
+
+            }
+
+            .box1 {
+                width: 100%;
+            }
+
+            .box2 {
+
+                width: 100%;
+            }
+
+
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div class="slider">
+
+        <div class="container" id="container-1">
+
+            <div class="box1">
+                <img src="#" alt="Image of the event">
+            </div>
+
+
+            <div class="box2">
+
+                <h1>EVENT TITLE </h1>
+                <p>About Event</p>
+                <button class="button">Join Now</button>
+
+
+            </div>
+        </div>
+        <div class="container" id="container-2">
+
+            <div class="box1">
+                <img src="#" alt="Image of the event">
+            </div>
+
+
+            <div class="box2">
+
+                <h1>EVENT TITLE </h1>
+                <p>About Event</p>
+                <button class="button">Join Now</button>
+
+
+            </div>
+        </div>
+        <div class="container" id="container-3">
+
+            <div class="box1">
+                <img src="#" alt="Image of the event">
+            </div>
+
+
+            <div class="box2">
+
+                <h1>EVENT TITLE </h1>
+                <p>About Event</p>
+                <button class="button">Join Now</button>
+
+
+
+            </div>
+        </div>
+        <div class="container" id="container-1">
+
+            <div class="box1">
+                <img src="#" alt="Image of the event">
+            </div>
+
+
+            <div class="box2">
+
+                <h1>EVENT TITLE </h1>
+                <p>About Event</p>
+                <button class="button">Join Now</button>
+
+
+            </div>
+        </div>
+</body>
+
+</html>
