@@ -26,15 +26,15 @@
 [Amazon](https://github.com/abhishekrawe/Web-dev-Projects/tree/amazon)
 ![animation](preview/amazon.gif)
 
-## Icon - GlossRead:
+<!-- ## Icon - GlossRead:
 
 [Icon-GlossRead](https://github.com/abhishekrawe/Web-dev-Projects/tree/icon-glsr)
-![animation](preview/icon-glsr.gif)
-
+![animation](preview/icon-glsr.gif) -->
+<!-- 
 ## About Section - GlossRead:
 
 [About Section-GlossRead](https://github.com/abhishekrawe/Web-dev-Projects/tree/aboutsection-glsr)
-![animation](preview/aboutsection-glsr.gif)
+![animation](preview/aboutsection-glsr.gif) -->
 
 ## Simon - Game:
 
@@ -61,10 +61,10 @@
 [Tinder-Dog](https://github.com/abhishekrawe/Web-dev-Projects/tree/tinderdog)
 ![animation](preview/tinderdog.gif)
 
-## Events GlossRead:
+<!-- ## Events GlossRead:
 
 [Events-GlossRead](https://github.com/abhishekrawe/Web-dev-Projects/tree/events-glsr)
-![animation](preview/events-glsr.gif)
+![animation](preview/events-glsr.gif) -->
 
 ## Landing Page Template:
 
